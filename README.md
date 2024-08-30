@@ -1,11 +1,12 @@
-![image](https://github.com/user-attachments/assets/a481e4a6-899e-4b6c-a3e3-a1d18bfebd0e)# Act2_V_C_if_while_for
-Actividad 2 variables, cadenas, if, while y for
+# Act2_V_C_if_while_for
+- Actividad 2 variables, cadenas, if, while y for
+- ![image](https://github.com/user-attachments/assets/a481e4a6-899e-4b6c-a3e3-a1d18bfebd0e)
 
 ## Mis variables
 ![image](https://github.com/user-attachments/assets/1b9e10dc-9140-4b95-80c4-182860bcdb2c)
- - resultado
- - 
-![image](https://github.com/user-attachments/assets/f40ab3dc-8dae-4502-9a7b-c4f57b6f2830)
+- resultado
+   
+- ![image](https://github.com/user-attachments/assets/f40ab3dc-8dae-4502-9a7b-c4f57b6f2830)
 
 ## mis cadenas
 - ![image](https://github.com/user-attachments/assets/88bb5e86-c894-4bda-a908-bc583e6cc82b)
